@@ -1,0 +1,69 @@
+.me{
+    background-color: black;
+}
+.emmie{
+    margin-left: 600px;
+    color: white;
+    padding: 5px;
+    width: 500px;
+    
+}
+.war{
+    color: white;
+    text-align: center;
+    border-radius: 30px;
+    height: 40px;
+    width: 500px;
+    background-color: orangered;
+    margin-left: 600px;
+}
+
+.menu-item{
+    display: flex;
+    justify-content: space-around;
+    display: inline;
+    margin-right: 40px;
+list-style: none;
+color: aliceblue;
+text-decoration: none;
+}
+.milly.navbar-item{
+    display: flex;
+    margin-left:auto ;
+    margin-right: 20px;
+    gap: 20px;
+}
+.navbar{
+    color: white;
+    background-color: maroon;
+}
+.navbar:hover{
+    color: yellowgreen;
+}
+.ul{
+    margin-right: 30pxpx;
+}
+.mar{
+    display: flex;
+}
+.container-fluid >ul{
+    text-decoration: none;
+}
+.mar{
+    display: inline;
+
+}
+.auth-buttons{
+    margin-right: 10px;
+    padding: 5px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.auth-buttons button:hover{
+    background-color: blue;
+}
+.d-flex{
+    margin-left: auto;
+    display: flex;
+}
